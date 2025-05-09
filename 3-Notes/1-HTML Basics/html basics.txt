@@ -1,0 +1,19 @@
+HTML CSS COURSE DAY 1:-Exercise 1 did.
+=====================
+
+1)button=<button></button>
+2)paragraph=<p><p/>
+3)for link=<a href="link" target="_blink">text of link <a/>
+
+	1)<button>                     </button>
+	  opening tag  content inside   closing tag
+
+	2)To Text something we use paragraph as <p><p/>.
+
+	3)To give any of the website link use <a><a/> This is a anchor element.
+
+	  =>	<a href="paste link here"><a/>         href modefies where this link goes
+	  =>    <a href="link" target="_blink"><a/>    target is used to open the link in new tab.
+		href and target only work on link element.
+
+	
