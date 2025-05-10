@@ -1,0 +1,70 @@
+CSS BASICS:-CASCADING STYLE SHEETS
+==========
+
+<style> button{background-color:red; }<style/>
+=>style is used to make buttons appear better.
+=>background-color: this is css property.
+=>red - css value.
+
+1)Button Design:-
+<style>
+    button{
+        background-color:rgb(200, 0, 0);
+        color:white;
+        border:none;
+        height:35px;
+        width:105px;
+        border-radius:2px;
+        cursor:pointer; 
+    }
+</style>
+<button>SUBSCRIBE</button>
+
+
+2)
+	<style>
+    .Subscribe{
+        background-color:rgb(200, 0, 0);
+        color:white;
+        border:none;
+        height:35px;
+        width:105px;
+        border-radius:2px;
+        cursor:pointer; 
+        font-weight:bold;
+    }
+</style>
+<style>
+    .Join{
+        background-color:rgb(255, 255, 255);
+        
+        color:rgb(0, 238, 255);
+        border-style:solid;
+        border-color:rgb(0, 238, 255);
+        border-radius:1px;
+        height:35px;
+        width:70px;
+        font-weight:bold;
+        cursor:pointer;
+
+
+    }
+</style>
+<style>
+    .Tweet{
+        background-color:rgb(48, 136, 166);
+        color:white;
+        height:35px;
+        width:70px;
+        border:none;
+        border-radius:17px;
+        font-weight:bold;
+        cursor:pointer;
+        
+    }
+</style>
+<button class="Subscribe">SUBSCRIBE</button>
+<button class="Join"> JOIN</button>
+<button class="Tweet">Tweet</button>
+		
+
