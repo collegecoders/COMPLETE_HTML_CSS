@@ -1,0 +1,15 @@
+Lesson-3              Transations,shawdows:-
+========              ====================
+
+	1):hover=>hover is used for giving effect over the button.
+	2):active=>active is used for giving effect when we clink on it.
+	3)transition:it is used for giving transition.
+	4)box-shadow:10px 10px 10px rgba(0,0,0,0,15);
+		1-10px:-horigental position.
+		2-10px:-vertical positon.
+		3-10px:-blur
+
+DEV TOOLS:-
+=========
+	if we want to inspect a website to know the font,size,background etc of css or html.
+	we use technique that,at white space right click and inspect to know the details of any button and code 	also.
