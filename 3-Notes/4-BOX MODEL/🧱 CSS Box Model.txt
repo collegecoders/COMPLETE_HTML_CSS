@@ -1,0 +1,26 @@
+🧱 CSS Box Model
+The CSS Box Model describes how elements are displayed on a web page. Every element is a box made up of 4 parts:
+
+1) Content – The actual text or image inside the box.
+
+2) Padding – Clears space inside the box around the content.
+
+3) Border – A line that wraps around the padding and content.
+
+4) Margin – Clears space outside the border, separating it from other elements.
+
+
+Box Model Structure:
+
++----------------------------+
+|        Margin              |
+|  +----------------------+  |
+|  |      Border           | |
+|  |  +----------------+  | |
+|  |  |   Padding       | | |
+|  |  |  +----------+   | | |
+|  |  |  | Content  |   | | |
+|  |  |  +----------+   | | |
+|  |  +----------------+  | |
+|  +----------------------+  |
++----------------------------+
