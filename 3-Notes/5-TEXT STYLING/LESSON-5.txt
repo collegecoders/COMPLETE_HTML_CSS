@@ -1,0 +1,30 @@
+LESSON-5
+========
+
+CSS Text Properties:
+====================
+
+1) font-size – Sets how big or small the text appears.
+
+2) font-weight – Controls how bold or light the text looks.
+
+3) font-family – Chooses the font style used for the text.
+
+4) line-height – Adjusts the space between lines of text.
+
+5) margin – Adds space outside the text block or element.
+
+6) text-decoration: underline; – Underlines the text.
+
+7) text-align: center; – Aligns the text to the center.
+
+
+
+HTML TEXT TAGS:
+===============
+
+1) <span></span> – Styles only the selected part of the text inline.
+
+2) <u></u> – Underlines only the text inside the tag.
+
+3) <strong></strong> – Makes only the selected text bold
