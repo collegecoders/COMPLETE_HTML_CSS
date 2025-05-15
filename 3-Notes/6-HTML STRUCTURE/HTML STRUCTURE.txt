@@ -1,0 +1,15 @@
+HTML STRUCTURE:
+==============
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+		<style>
+			inside head within style css code is there
+		</style>
+	</head>
+	<body>
+		inside body html code will there.
+	</body>
+</html.
