@@ -1,0 +1,62 @@
+📌 HTML <div> Tag – Notes
+==========================
+
+✅ What is a <div>?
+
+1)The <div> tag stands for "division".
+
+2) It is a block-level container used to group HTML elements together.
+
+3) It has no semantic meaning by default – used purely for layout and styling.
+
+
+
+🧱 Key Features
+================
+
+=> Acts as a wrapper around content.
+
+=> Can hold text, images, forms, other HTML tags, or even other <div>s.
+
+=> Often used with CSS or JavaScript to style or manipulate grouped elements.
+
+
+
+💡 Syntax
+==========
+
+<div>
+  <!-- Content goes here -->
+</div>
+
+
+🖼️ Example
+===========
+
+<div class="box">
+  <p>Welcome To College Coders</p>
+</div>
+
+
+🎨 Styling with CSS
+====================
+
+<style>
+  .box {
+    border: 1px solid #333;
+    padding: 10px;
+    background-color: #f0f0f0;
+  }
+</style>
+
+
+
+⚠️ Best Practices
+==================
+
+> Don’t overuse <div>s – it can lead to "div soup".
+
+> Use semantic HTML (like <section>, <article>, <header>, etc.) when possible.
+
+> Assign class or id attributes for styling or JS interactions.
+
