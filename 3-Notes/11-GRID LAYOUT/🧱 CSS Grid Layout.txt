@@ -1,0 +1,65 @@
+🧱 CSS Grid Layout
+===================
+
+🔰 Introduction to CSS Grid
+============================
+
+CSS Grid is a two-dimensional layout system used in CSS. It allows you to design rows and columns simultaneously, making it ideal for creating structured and responsive page layouts.
+
+
+📌 Why Use Grid?
+=================
+1) Overcomes limitations of block, inline-block, and float layouts.
+
+2) Easily defines both rows and columns.
+
+3) Provides precise control over placement of elements.
+
+4) Great for building responsive layouts without much media query logic.
+
+
+🧩 Basic Terminology
+=====================
+Term	        Description
+
+grid container	The parent element that has display: grid or display: inline-grid.
+grid item	Direct children of the grid container.
+grid line	The dividing lines between rows and columns.
+grid track	The space between two grid lines (i.e., a row or column).
+grid cell	A single unit of space in the grid.
+grid area	A rectangular space that can span multiple rows or columns.
+
+
+
+🛠️ How to Create a Grid
+========================
+
+.container {
+  display: grid;
+  grid-template-columns: 200px 1fr 1fr;
+}
+
+✅ grid-template-columns
+=========================
+Defines the number and width of columns.
+
+=> grid-template-columns: 200px 1fr 1fr; 
+Explanation: 1st column fixed 200px, next two flexible 
+
+✅ grid-Spacing
+================
+
+column-gap: Create a gap at column side.
+row-gap   : Create a gap at row side.
+
+
+
+🎨 Real-World Example: YouTube Card Layout
+===========================================
+In this video, we implemented a YouTube preview card layout using Grid:
+
+Image Thumbnail
+
+Video Title and Channel
+
+All aligned neatly using rows and columns in the Grid system.
