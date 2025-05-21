@@ -1,0 +1,49 @@
+📘 CSS Flexbox
+===============
+
+🔹 What is Flexbox?
+====================
+
+1) Flexbox (Flexible Box Layout) is a CSS layout model designed to arrange items in a row or column, and distribute space efficiently even when the size of items is unknown or dynamic.
+
+2) It is ideal for one-dimensional layouts (either horizontal or vertical).
+
+
+🔹 Enabling Flexbox
+====================
+
+.container {
+  display: flex;
+}
+
+
+🧠 Advantages of Flexbox
+=========================
+
+1) Simple alignment of elements in rows or columns
+
+2) Automatically adjusts layout for different screen sizes
+
+3) Great for navigation bars, card layouts, centering elements
+
+
+⚠️ When Not to Use Flexbox
+===========================
+
+1) For complex grid-based layouts → Use CSS Grid
+
+2) When full 2D layout control is needed (rows and columns simultaneously)
+
+
+✅ Flexbox Use Cases
+====================
+
+1) Navigation bars
+
+2) Card layouts
+
+3) Centering content
+
+4) Responsive forms
+
+5) Toolbars & menus
