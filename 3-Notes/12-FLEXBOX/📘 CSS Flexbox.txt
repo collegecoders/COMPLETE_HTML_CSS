@@ -47,3 +47,6 @@
 4) Responsive forms
 
 5) Toolbars & menus
+
+
+WATCH FULL VIDEO TO LEARN LOT MORE ABOUT FLEXBOX
